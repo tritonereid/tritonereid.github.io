@@ -1,0 +1,113 @@
+[
+  {
+    "arxiv_id": "2609.29537",
+    "title": "A Cotangent Model for the Next-to-Minimal Orbit of E7",
+    "authors": [
+      "Jia, Boming"
+    ],
+    "abstract": "Let $\\mathcal O_{2A_1}$ be the next-to-minimal nilpotent orbit of the complex simple Lie algebra of type $E_7$. Let $\\mathfrak p_7$ be the maximal parabolic subalgebra corresponding to the simple root $\\alpha_7$, and let $\\mathfrak u^+$ be its nilpotent radical. We prove that the affinization $T^*(\\mathcal O_{2A_1}\\cap\\mathfrak u^+)^{\\mathrm{aff}}$ of the cotangent bundle of $\\mathcal O_{2A_1}\\cap\\mathfrak u^+$ is isomorphic to the nilpotent orbit closure $\\overline{\\mathcal O}_{2A_1}$ as affine varieties.",
+    "url": "https://arxiv.org/abs/2609.29537",
+    "pdf_url": "https://arxiv.org/pdf/2609.29537",
+    "year": 2026,
+    "submission_history": "Submission history From: Boming Jia [view email]          [v1]\n        Thu, 27 Aug 2026 01:25:23 UTC (12 KB)",
+    "journal": "",
+    "display_title": "A Cotangent Model for the Next-to-Minimal Orbit of $E_7$"
+  },
+  {
+    "arxiv_id": "2609.12118",
+    "title": "Hitchin's Conjecture for $\\mathfrak{sl}_n$ in Odd Prime Degree",
+    "authors": [
+      "Jia, Boming"
+    ],
+    "abstract": "We prove Hitchin's conjecture for $\\mathfrak{sl}_n$ in every odd prime degree. More precisely, let $p=2k+1$ be prime and let $n\\geq k+1$. Every nonzero primitive element $\\alpha\\in\\Lambda^p(\\mathfrak{sl}_n^*)^{\\mathfrak{sl}_n}$ is nonzero on the top exterior power of the unique $p$-dimensional irreducible submodule of $\\mathfrak{sl}_n$ for the adjoint action of a principal $\\mathfrak{sl}_2$-subalgebra. The conjecture also holds for types $B_\\ell$ and $C_\\ell$, with $\\ell\\geq2$, in every prime degree $p=4r-1$ with $1\\leq r\\leq\\ell$.",
+    "url": "https://arxiv.org/abs/2609.12118",
+    "pdf_url": "https://arxiv.org/pdf/2609.12118",
+    "year": 2026,
+    "submission_history": "Submission history From: Boming Jia [view email]          [v1]\n        Thu, 10 Sep 2026 18:45:58 UTC (8 KB)",
+    "journal": ""
+  },
+  {
+    "arxiv_id": "2608.17206",
+    "title": "Cotangent Models of Nilpotent Orbit Closures",
+    "authors": [
+      "Jia, Boming"
+    ],
+    "abstract": "Let $\\mathcal O$ be a nonzero nilpotent orbit in a complex simple Lie algebra $\\mathfrak g$. For $\\mathfrak g$ of classical type, we classify the orbit closures $\\overline{\\mathcal O}$ that are isomorphic to $(T^*X)^{\\mathrm{aff}}$ for a smooth quasi-affine variety $X$. In types $G_2$, $F_4$, and $E_8$, we show that no nonzero nilpotent orbit closure admits such a cotangent model.",
+    "url": "https://arxiv.org/abs/2608.17206",
+    "pdf_url": "https://arxiv.org/pdf/2608.17206",
+    "year": 2026,
+    "submission_history": "Submission history From: Boming Jia [view email]          [v1]\n        Mon, 17 Aug 2026 23:39:37 UTC (14 KB)",
+    "journal": ""
+  },
+  {
+    "arxiv_id": "2608.12985",
+    "title": "Minimal Nilpotent Orbits of type G2, F4 and E8",
+    "authors": [
+      "Jia, Boming"
+    ],
+    "abstract": "Let $\\mathfrak g$ be a complex simple Lie algebra of type $G_2$, $F_4$, or $E_8$. We prove that the closure $\\overline{\\mathcal O}_{\\min}(\\mathfrak g)$ of its minimal nilpotent orbit is not isomorphic to $(T^*X)^{\\mathrm{aff}}$ for any smooth quasi-affine variety $X$. We do not assume that the isomorphism is equivariant or Poisson. We also prove the same statement in types $A_1$ and $A_2$.",
+    "url": "https://arxiv.org/abs/2608.12985",
+    "pdf_url": "https://arxiv.org/pdf/2608.12985",
+    "year": 2026,
+    "submission_history": "Submission history From: Boming Jia [view email]          [v1]\n        Thu, 13 Aug 2026 09:09:51 UTC (10 KB)",
+    "journal": "",
+    "display_title": "Minimal Nilpotent Orbits of type $G_2$, $F_4$ and $E_8$"
+  },
+  {
+    "arxiv_id": "2511.02179",
+    "title": "Minimal Nilpotent Orbits and Toric Varieties",
+    "authors": [
+      "Jia, Boming",
+      "Li, Yu"
+    ],
+    "abstract": "Let $\\overline{\\mathcal{O}}_\\textrm{min} \\cap (\\mathfrak n^+ \\oplus \\mathfrak n^-)$ be the collection of elements of $\\mathfrak{sl}_{n+1}(\\mathbb C)$ with rank less than or equal to $1$ and with all diagonal entries equal to zero. We show that the coordinate ring $\\mathbb C[\\overline{\\mathcal{O}}_\\textrm{min} \\cap (\\mathfrak n^+ \\oplus \\mathfrak n^-)]$ of the scheme-theoretic intersection $\\overline{\\mathcal{O}}_\\textrm{min} \\cap (\\mathfrak n^+ \\oplus \\mathfrak n^-)$ has a flat degeneration to the ring of $(\\mathbb C^{\\times})^n$-equivariant cohomology of the projective toric variety associated with the fan of compatible subsets of almost positive roots of type $C_n$. Then we compute the Hilbert series of $\\mathbb C[\\overline{\\mathcal{O}}_\\textrm{min} \\cap (\\mathfrak n^+ \\oplus \\mathfrak n^-)]$ and prove that $\\overline{\\mathcal{O}}_\\textrm{min} \\cap (\\mathfrak n^+ \\oplus \\mathfrak n^-)$ is reduced and Gorenstein. Moreover, our proof method allows us to prove that the scheme-theoretic intersection $\\overline{\\mathcal{O}}_\\textrm{min} \\cap \\mathfrak n^+$, of which the irreducible components are known as the ``orbital varieties'', is reduced and Cohen-Macaulay.",
+    "url": "https://arxiv.org/abs/2511.02179",
+    "pdf_url": "https://arxiv.org/pdf/2511.02179",
+    "year": 2025,
+    "submission_history": "Submission history From: Yu Li [view email]          [v1]\n        Tue, 4 Nov 2025 01:46:15 UTC (19 KB)",
+    "journal": ""
+  },
+  {
+    "arxiv_id": "2501.12406",
+    "title": "Minimal Nilpotent Orbits of type D and E",
+    "authors": [
+      "Jia, Boming"
+    ],
+    "abstract": "We first show the closure of the minimal nilpotent adjoint orbit Omin^{D_n} in so_{2n} is isomorphic to the affinization of T^*(SL_{n-1}/[P,P]) where P is the parabolic subgroup P_{(1,1,n-3)} of SL_{n-1}(C). Then we prove that the closure of the minimal nilpotent adjoint orbit Omin^{E_6} of the complex simple Lie algebra E_6 is isomorphic to the affinization of T^*(SL_4/P^u) where P^u is the unipotent radical of the parabolic subgroup P_{(2,2)} of SL_4(\\C). In the end we will formulate a similar result for type E_7.",
+    "url": "https://arxiv.org/abs/2501.12406",
+    "pdf_url": "https://arxiv.org/pdf/2501.12406",
+    "year": 2025,
+    "submission_history": "Submission history From: Boming Jia [view email]          [v1]\n        Thu, 16 Jan 2025 12:43:17 UTC (9 KB)",
+    "journal": "",
+    "display_title": "Minimal Nilpotent Orbits of type $D$ and $E$",
+    "display_abstract": "We first show the closure of the minimal nilpotent adjoint orbit $\\mathcal O_{\\min}^{D_n}$ in $\\mathfrak{so}_{2n}$ is isomorphic to the affinization of $T^*(SL_{n-1}/[P,P])$ where $P$ is the parabolic subgroup $P_{(1,1,n-3)}$ of $SL_{n-1}(\\mathbb C)$. Then we prove that the closure of the minimal nilpotent adjoint orbit $\\mathcal O_{\\min}^{E_6}$ of the complex simple Lie algebra $E_6$ is isomorphic to the affinization of $T^*(SL_4/P^u)$ where $P^u$ is the unipotent radical of the parabolic subgroup $P_{(2,2)}$ of $SL_4(\\mathbb C)$. In the end we will formulate a similar result for type $E_7$."
+  },
+  {
+    "arxiv_id": "2310.14302",
+    "title": "Highest Weight Varieties and Narayana Numbers",
+    "authors": [
+      "Jia, Boming"
+    ],
+    "abstract": "We compute the Hilbert series of the coordinate ring of some highest weight varieties. We also explain why Narayana numbers (and their generalizations) appear naturally in the numerator of the Hilbert series of the homogeneous coordinate ring of the Grassmannian $Gr(d,n+d+1)$ and of the minimal nilpotent adjoint orbit in $\\mathfrak{sl}_\\mathrm{n+1}(\\mathbb{C})$.",
+    "url": "https://arxiv.org/abs/2310.14302",
+    "pdf_url": "https://arxiv.org/pdf/2310.14302",
+    "year": 2023,
+    "submission_history": "Submission history From: Boming Jia [view email]                  [v1]\n        Sun, 22 Oct 2023 13:52:57 UTC (14 KB)\n            [v2]\n        Thu, 31 Oct 2024 14:06:26 UTC (10 KB)\n            [v3]\n        Fri, 27 Feb 2026 07:17:35 UTC (9 KB)\n    [v4]\n        Mon, 2 Mar 2026 16:14:49 UTC (10 KB)",
+    "journal": ""
+  },
+  {
+    "arxiv_id": "2112.08649",
+    "title": "The Affine Closure of T^*(SL_n/U)",
+    "authors": [
+      "Jia, Boming"
+    ],
+    "abstract": "We show that the affine closure of T^*(SL_n/U) has symplectic singularities, in the sense of Beauville. In the special case n=3, we show that the affine closure of T^*(SL_3/U) is isomorphic to the closure of the minimal nilpotent adjoint orbit in so(8,C). Moreover, the quasi-classical Gelfand-Graev action of the Weyl group W on the affine closure of T^*(SL_3/U) can be identified with the restriction to the closure of the minimal nilpotent adjoint orbit of the triality action on so(8,C).",
+    "url": "https://arxiv.org/abs/2112.08649",
+    "pdf_url": "https://arxiv.org/pdf/2112.08649",
+    "year": 2021,
+    "submission_history": "Submission history From: Boming Jia [view email]                  [v1]\n        Thu, 16 Dec 2021 05:59:48 UTC (22 KB)\n    [v2]\n        Mon, 7 Oct 2024 02:16:33 UTC (23 KB)",
+    "journal": "J. Lie Theory 35, No. 1, 83-100 (2025)",
+    "display_title": "The Affine Closure of $T^*(SL_n/U)$",
+    "display_abstract": "We show that the affine closure of $T^*(SL_n/U)$ has symplectic singularities, in the sense of Beauville. In the special case $n=3$, we show that the affine closure of $T^*(SL_3/U)$ is isomorphic to the closure of the minimal nilpotent adjoint orbit in $\\mathfrak{so}(8,\\mathbb C)$. Moreover, the quasi-classical Gelfand-Graev action of the Weyl group $W$ on the affine closure of $T^*(SL_3/U)$ can be identified with the restriction to the closure of the minimal nilpotent adjoint orbit of the triality action on $\\mathfrak{so}(8,\\mathbb C)$."
+  }
+]

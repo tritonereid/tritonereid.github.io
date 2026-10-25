@@ -1,0 +1,52 @@
+[
+  {
+    "title": "On the Minimal Orbital Scheme $\\overline{\\mathcal O}_{\\min}\\cap\\mathfrak n^{+}$",
+    "authors": [
+      "GPT-6 Astra"
+    ],
+    "editor": "Boming Jia",
+    "attribution": "GPT-6 Astra; communicated and edited by Boming Jia",
+    "abstract": "Let $\\mathfrak g$ be a complex simple Lie algebra, let $\\mathfrak n^{+}$ be the nilradical of a Borel subalgebra, and let $\\mathcal O_{\\min}$ be the minimal nonzero nilpotent orbit. We prove that $\\overline{\\mathcal O}_{\\min}\\cap\\mathfrak n^{+}$ is generically reduced in every type. In simply laced type, it is reduced and Cohen–Macaulay. In non-simply laced type, it is nonreduced and, being generically reduced, fails Serre's condition $(S_1)$. In simply laced type, a quadratic Gröbner basis degenerates its coordinate ring to the Stanley–Reisner ring of the positive-root order complex. As a consequence, minimal scheme-theoretic Springer fibers are generically reduced in every type, reduced and Cohen–Macaulay in simply laced type, and nonreduced in non-simply laced type.",
+    "abstract_tex_source": "Let $\\mathfrak g$ be a complex simple Lie algebra, let $\\mathfrak n^{+}$ be the nilradical of a Borel subalgebra, and let $\\mathcal O_{\\min}$ be the minimal nonzero nilpotent orbit. We prove that $\\overline{\\mathcal O_{\\min}}\\cap\\mathfrak n^{+}$ is generically reduced in every type. In simply laced type, it is reduced and Cohen--Macaulay. In non-simply laced type, it is nonreduced and, being generically reduced, fails Serre's condition $(S_1)$. In simply laced type, a quadratic Gr\\\"obner basis degenerates its coordinate ring to the Stanley--Reisner ring of the positive-root order complex. As a consequence, minimal scheme-theoretic Springer fibers are generically reduced in every type, reduced and Cohen--Macaulay in simply laced type, and nonreduced in non-simply laced type.",
+    "github_url": "https://github.com/tritonereid/minimal-orbital-scheme",
+    "source_url": "https://github.com/tritonereid/minimal-orbital-scheme/blob/main/README.md",
+    "pdf_url": "https://github.com/tritonereid/minimal-orbital-scheme/releases/latest/download/On_the_Minimal_Orbital_Scheme.pdf",
+    "latest_pdf_url": "https://github.com/tritonereid/minimal-orbital-scheme/releases/latest/download/On_the_Minimal_Orbital_Scheme.pdf",
+    "latest_release_url": "https://github.com/tritonereid/minimal-orbital-scheme/releases/tag/v1.0.0",
+    "version_pdf_url": "https://github.com/tritonereid/minimal-orbital-scheme/releases/download/v1.0.0/On_the_Minimal_Orbital_Scheme.pdf",
+    "raw_pdf_url": "https://raw.githubusercontent.com/tritonereid/minimal-orbital-scheme/main/On_the_Minimal_Orbital_Scheme.pdf",
+    "version": "1.0.0",
+    "date": "2026-10-25",
+    "year": 2026,
+    "local_pdf": "/workspace/paper-research/On_the_Minimal_Orbital_Scheme.pdf",
+    "local_release_pdf": "/workspace/paper-research/On_the_Minimal_Orbital_Scheme-release.pdf",
+    "release_matches_main_pdf": true,
+    "sha256": "7afbb9840b92dfef8e834a9fc0c38a12d9faaec4bc0bc6b4630ff5deda69081f",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "title": "The Minimal Leaf of $T^*(G/U)^{\\mathrm{aff}}$",
+    "authors": [
+      "GPT-6 Astra"
+    ],
+    "editor": "Boming Jia",
+    "attribution": "GPT-6 Astra; communicated and edited by Boming Jia",
+    "abstract": "Let $G$ be a simply connected simple complex algebraic group, and let $U$ be a maximal unipotent subgroup. Assume that $G$ is not of type $A_1$ or $A_2$. We construct a $G$-equivariant closed Poisson embedding of the minimal nilpotent orbit closure into $T^*(G/U)^{\\mathrm{aff}}$. The image of the minimal orbit is a symplectic leaf contained in the closure of every positive-dimensional symplectic leaf. It is the unique positive-dimensional leaf of smallest dimension.",
+    "abstract_tex_source": "Let $G$ be a simply connected simple complex algebraic group, and let $U$ be a maximal unipotent subgroup. Assume that $G$ is not of type $A_1$ or $A_2$. We construct a $G$-equivariant closed Poisson embedding of the minimal nilpotent orbit closure into $T^*(G/U)^{\\mathrm{aff}}$. The image of the minimal orbit is a symplectic leaf contained in the closure of every positive-dimensional symplectic leaf. It is the unique positive-dimensional leaf of smallest dimension.",
+    "github_url": "https://github.com/tritonereid/minimal-leaf-cotangent-basic-affine-space",
+    "source_url": "https://github.com/tritonereid/minimal-leaf-cotangent-basic-affine-space/blob/main/README.md",
+    "pdf_url": "https://github.com/tritonereid/minimal-leaf-cotangent-basic-affine-space/releases/latest/download/The_Minimal_Leaf.pdf",
+    "latest_pdf_url": "https://github.com/tritonereid/minimal-leaf-cotangent-basic-affine-space/releases/latest/download/The_Minimal_Leaf.pdf",
+    "latest_release_url": "https://github.com/tritonereid/minimal-leaf-cotangent-basic-affine-space/releases/tag/v1.0.1",
+    "version_pdf_url": "https://github.com/tritonereid/minimal-leaf-cotangent-basic-affine-space/releases/download/v1.0.1/The_Minimal_Leaf.pdf",
+    "raw_pdf_url": "https://raw.githubusercontent.com/tritonereid/minimal-leaf-cotangent-basic-affine-space/main/The_Minimal_Leaf.pdf",
+    "version": "1.0.1",
+    "date": "2026-10-24",
+    "year": 2026,
+    "local_pdf": "/workspace/paper-research/The_Minimal_Leaf.pdf",
+    "local_release_pdf": "/workspace/paper-research/The_Minimal_Leaf-release.pdf",
+    "release_matches_main_pdf": true,
+    "sha256": "cc3e73369db54e1eb41b378b0a231f849fdab6b453f4f970ad635c4f34706aab",
+    "verified_on": "2026-10-25"
+  }
+]

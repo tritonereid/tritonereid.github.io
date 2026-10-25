@@ -1,0 +1,6 @@
+{
+  "name": "boming-jia-homepage",
+  "private": true,
+  "scripts": { "build": "node scripts/build.mjs" },
+  "devDependencies": { "katex": "0.16.25" }
+}

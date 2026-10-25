@@ -1,0 +1,141 @@
+{
+  "verified_on": "2026-10-25",
+  "scope": "Local preview and standalone HTML; website not deployed yet.",
+  "all_pdfs_same_site": true,
+  "standalone_offline_verified": true,
+  "pdf_count": 11,
+  "pdfs": [
+    {
+      "path": "assets/Boming_Jia_CV.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 85085,
+      "sha256": "92b339b9001d4f0b9ad1c91e55df4243904b4fd171bea91acf46a0229d1e6ea1",
+      "pages": 2,
+      "pdf_title": "Boming Jia – Curriculum Vitae",
+      "source_url": "User-provided CV",
+      "version": "October 2026",
+      "embedded_offline_sha256_matches": true
+    },
+    {
+      "path": "papers/On_the_Minimal_Orbital_Scheme.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 346012,
+      "sha256": "7afbb9840b92dfef8e834a9fc0c38a12d9faaec4bc0bc6b4630ff5deda69081f",
+      "pages": 12,
+      "pdf_title": "On the Minimal Orbital Scheme Omin-bar intersect n+",
+      "source_url": "https://github.com/tritonereid/minimal-orbital-scheme/releases/latest/download/On_the_Minimal_Orbital_Scheme.pdf",
+      "version": "v1.0.0",
+      "embedded_offline_sha256_matches": true
+    },
+    {
+      "path": "papers/The_Minimal_Leaf.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 290711,
+      "sha256": "cc3e73369db54e1eb41b378b0a231f849fdab6b453f4f970ad635c4f34706aab",
+      "pages": 14,
+      "pdf_title": "The Minimal Leaf of T*(G/U)^aff",
+      "source_url": "https://github.com/tritonereid/minimal-leaf-cotangent-basic-affine-space/releases/latest/download/The_Minimal_Leaf.pdf",
+      "version": "v1.0.1",
+      "embedded_offline_sha256_matches": true
+    },
+    {
+      "path": "papers/arxiv-2609.29537.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 307514,
+      "sha256": "d618c16a782004d3846e3785b4b84903e0227d36c0d353d41a6e1ade941fa0dc",
+      "pages": 12,
+      "pdf_title": "A Cotangent Model for the Next-to-Minimal Orbit of E7",
+      "source_url": "https://arxiv.org/pdf/2609.29537",
+      "version": "v1",
+      "embedded_offline_sha256_matches": true
+    },
+    {
+      "path": "papers/arxiv-2609.12118.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 293357,
+      "sha256": "8805cf87c679e636c7b1ec2d87f8e0332bc8b88b2302f256417332eede0dab72",
+      "pages": 7,
+      "pdf_title": "Hitchin's Conjecture for 𝔰𝔩_n in Odd Prime Degree",
+      "source_url": "https://arxiv.org/pdf/2609.12118",
+      "version": "v1",
+      "embedded_offline_sha256_matches": true
+    },
+    {
+      "path": "papers/arxiv-2608.17206.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 311892,
+      "sha256": "4fb679351bb4fa79d8bcb9aa364b22aaaa639712c825f043f551ebb6e0391ac5",
+      "pages": 19,
+      "pdf_title": "Cotangent Models of Nilpotent Orbit Closures",
+      "source_url": "https://arxiv.org/pdf/2608.17206",
+      "version": "v1",
+      "embedded_offline_sha256_matches": true
+    },
+    {
+      "path": "papers/arxiv-2608.12985.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 313754,
+      "sha256": "0ee00e12c6c619d056c40d846fd0db97434d53118e7064521def354090aea9cb",
+      "pages": 11,
+      "pdf_title": "Minimal Nilpotent Orbits of type G2, F4 and E8",
+      "source_url": "https://arxiv.org/pdf/2608.12985",
+      "version": "v1",
+      "embedded_offline_sha256_matches": true
+    },
+    {
+      "path": "papers/arxiv-2511.02179.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 348614,
+      "sha256": "d49144f1699b845698dba7720c59ba4d02ad02b9a7adf3d7ca490210f80ca7b3",
+      "pages": 16,
+      "pdf_title": "Minimal Nilpotent Orbits and Toric Varieties",
+      "source_url": "https://arxiv.org/pdf/2511.02179",
+      "version": "v1",
+      "embedded_offline_sha256_matches": true
+    },
+    {
+      "path": "papers/arxiv-2501.12406.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 364306,
+      "sha256": "f37e12121b08ccdfd511d8c91fb1a13af7e3b45e779312d38bf3e28e971f08db",
+      "pages": 6,
+      "pdf_title": "Subject:         ",
+      "source_url": "https://arxiv.org/pdf/2501.12406",
+      "version": "v1",
+      "embedded_offline_sha256_matches": true
+    },
+    {
+      "path": "papers/arxiv-2310.14302.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 298915,
+      "sha256": "a0c7296e188ff481b3ac3c0fe4ff4b9bb9ac6fb162ef38f1ec0b54da5e7e5b7e",
+      "pages": 10,
+      "pdf_title": "Highest Weight Varieties and Narayana Numbers",
+      "source_url": "https://arxiv.org/pdf/2310.14302",
+      "version": "v4",
+      "embedded_offline_sha256_matches": true
+    },
+    {
+      "path": "papers/arxiv-2112.08649.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 495909,
+      "sha256": "17f9c72f904b60f7f889d1accf7ad43603b68e93da7ed7b21debf910ebd223ea",
+      "pages": 19,
+      "pdf_title": "Subject:         ",
+      "source_url": "https://arxiv.org/pdf/2112.08649",
+      "version": "v2",
+      "embedded_offline_sha256_matches": true
+    }
+  ]
+}
