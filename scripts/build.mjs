@@ -54,7 +54,6 @@ const html = `<!doctype html>
 <main id="main">
 <div class="intro" id="about">
   <div class="intro-text">
-    <p class="affiliation"><a href="https://ymsc.tsinghua.edu.cn/en/">Yau Mathematical Sciences Center</a><br>Tsinghua University<span class="position">Postdoctoral Researcher · Shuimu Scholar</span></p>
     <p class="biography">I am a postdoctoral researcher at Tsinghua University. I received my Ph.D. in Mathematics from the University of Chicago in 2022, under the supervision of <a href="https://mathematics.uchicago.edu/people/profile/victor-ginzburg/">Victor Ginzburg</a>.</p>
     <div class="contact-links"><a href="mailto:jiabm@tsinghua.edu.cn">jiabm@tsinghua.edu.cn</a><a href="assets/Boming_Jia_CV.pdf">Curriculum vitae</a><a href="https://github.com/tritonereid">GitHub</a></div>
   </div>
