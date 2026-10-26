@@ -7,6 +7,7 @@ const katex = require('katex');
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const arxiv = JSON.parse(fs.readFileSync(path.join(root, 'data/arxiv-papers.json'), 'utf8'));
 const github = JSON.parse(fs.readFileSync(path.join(root, 'data/github-papers.json'), 'utf8'));
+const talks = JSON.parse(fs.readFileSync(path.join(root, 'data/talks.json'), 'utf8'));
 const esc = s => String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
 function rich(s) {
   return s.split(/(\$[^$]+\$)/g).map(t => t.startsWith('$') && t.endsWith('$')
@@ -92,13 +93,11 @@ const html = `<!doctype html>
 <section id="talks" aria-labelledby="talks-heading">
   <div class="section-heading"><h2 id="talks-heading">Selected talks</h2></div>
   <ul class="talks">
-    <li><span class="date">Sept. 2026</span>Minimal Nilpotent Orbits and Cluster Toric Varieties<span class="venue">Algebra Seminar · BICMR, Peking University</span></li>
-    <li><span class="date">Apr. 2026</span>The Minimal Nilpotent Orbit of ${rich('$E_6$')}<span class="venue">Workshop on Symplectic Varieties and Projective Geometry · Morningside Center of Mathematics, CAS</span></li>
-    <li><span class="date">Nov. 2025</span>Minimal Nilpotent Orbits and Cluster Toric Varieties<span class="venue">Representation Theory Seminar · AMSS, Chinese Academy of Sciences</span></li>
+    ${talks.map(t => `<li><span class="date">${esc(t.date)}</span>${rich(t.title)}<span class="venue">${esc(t.venue)}</span></li>`).join('\n')}
   </ul>
 </section>
 </main>
-<footer><span>Boming Jia · Tsinghua University</span><span>Updated October 2026 · <a href="https://ymsc.tsinghua.edu.cn/en/info/1035/2466.htm">YMSC profile</a></span></footer>
+<footer>Good Luck！</footer>
 </div>
 <script>
 document.querySelectorAll('.expand-all').forEach(button => {

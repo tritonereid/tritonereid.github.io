@@ -26,7 +26,8 @@
 
 ## 更新内容
 
-- 简介、研究兴趣、教育、教学和报告信息：修改 `scripts/build.mjs`。
+- 简介、研究兴趣、教育和教学信息：修改 `scripts/build.mjs`。
+- 报告信息：修改 `data/talks.json`，与 CV 中的报告记录保持一致。
 - arXiv 论文：修改 `data/arxiv-papers.json`。
 - GitHub 论文：修改 `data/github-papers.json`。
 - 样式：修改 `assets/style.css`。照片使用容器轻微裁去左侧 2px，以去除原图细白边；手机端论文标题与“展开全部摘要”按钮分行排列。
