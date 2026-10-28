@@ -110,7 +110,7 @@ document.querySelectorAll('.expand-all').forEach(button => {
 </body>
 </html>`;
 fs.writeFileSync(path.join(root, 'index.html'), html);
-console.log('Built index.html: 8 arXiv papers + 2 GitHub papers.');
+console.log(`Built index.html: ${arxiv.length} arXiv papers + ${github.length} GitHub papers.`);
 
 if(process.argv.includes('--standalone')) {
   let css = fs.readFileSync(path.join(root,'assets/katex.min.css'),'utf8');

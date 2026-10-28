@@ -1,5 +1,28 @@
 [
   {
+    "title": "A Restriction Theorem for Springer Fibers",
+    "authors": [
+      "GPT-6 Astra"
+    ],
+    "editor": "Boming Jia",
+    "attribution": "GPT-6 Astra; communicated and edited by Boming Jia",
+    "abstract": "Let $G$ be a connected complex reductive group, $\\mathcal B$ its flag variety, and $\\mathcal B_e$ the Springer fiber of a nilpotent element $e\\in\\operatorname{Lie} G$. Let $S$ be the torus associated with an $\\mathfrak{sl}_2$-triple containing $e$. We prove that the image of the restriction map on complex cohomology $H^*(\\mathcal B^S)\\to H^*(\\mathcal B_e^S)$ between the $S$-fixed point loci is the subalgebra of invariants under the component group $A(e)$ of the centralizer of $e$ in $G$. This proves a conjecture of Hoang, Krylov, and Matvieievskyi. The argument uses global invariant cycles. As an application, we give another proof of the known surjectivity for general linear groups.",
+    "abstract_tex_source": "Let $G$ be a connected complex reductive group, $\\B$ its flag variety, and $\\B_e$ the Springer fiber of a nilpotent element $e\\in\\Lie G$. Let $S$ be the torus associated with an $\\mathfrak{sl}_2$-triple containing $e$. We prove that the image of the restriction map on complex cohomology $H^*(\\B^S)\\to H^*(\\B_e^S)$ between the $S$-fixed point loci is the subalgebra of invariants under the component group $A(e)$ of the centralizer of $e$ in $G$. This proves a conjecture of Hoang, Krylov, and Matvieievskyi. The argument uses global invariant cycles. As an application, we give another proof of the known surjectivity for general linear groups.",
+    "github_url": "https://github.com/tritonereid/springer-fiber-restriction",
+    "source_url": "https://github.com/tritonereid/springer-fiber-restriction/blob/main/README.md",
+    "pdf_url": "https://github.com/tritonereid/springer-fiber-restriction/releases/latest/download/A_Restriction_Theorem_for_Springer_Fibers.pdf",
+    "latest_pdf_url": "https://github.com/tritonereid/springer-fiber-restriction/releases/latest/download/A_Restriction_Theorem_for_Springer_Fibers.pdf",
+    "latest_release_url": "https://github.com/tritonereid/springer-fiber-restriction/releases/tag/v1.0.0",
+    "version_pdf_url": "https://github.com/tritonereid/springer-fiber-restriction/releases/download/v1.0.0/A_Restriction_Theorem_for_Springer_Fibers.pdf",
+    "raw_pdf_url": "https://raw.githubusercontent.com/tritonereid/springer-fiber-restriction/main/A_Restriction_Theorem_for_Springer_Fibers.pdf",
+    "version": "1.0.0",
+    "date": "2026-10-28",
+    "year": 2026,
+    "release_matches_main_pdf": true,
+    "sha256": "20f2c456cb02696d3e540aa5d98137d7fc9400fc92a77217d452edc8e8be2226",
+    "verified_on": "2026-10-28"
+  },
+  {
     "title": "On the Minimal Orbital Scheme $\\overline{\\mathcal O}_{\\min}\\cap\\mathfrak n^{+}$",
     "authors": [
       "GPT-6 Astra"
