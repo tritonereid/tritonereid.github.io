@@ -18,7 +18,8 @@ function paper(p, isGithub = false) {
   const pdfPath = isGithub ? `papers/${path.basename(new URL(p.latest_pdf_url).pathname)}` : `papers/arxiv-${p.arxiv_id}.pdf`;
   const pdfFile = fs.readFileSync(path.join(root, pdfPath));
   if (pdfFile.subarray(0, 5).toString() !== '%PDF-') throw new Error(`Invalid PDF: ${pdfPath}`);
-  const pdf = label => a(pdfPath, label, ' type="application/pdf" target="_blank" rel="noopener"');
+  const pdfHref = isGithub ? `${pdfPath}?v=${encodeURIComponent(p.version)}` : pdfPath;
+  const pdf = label => a(pdfHref, label, ' type="application/pdf" target="_blank" rel="noopener"');
   let meta;
   if(isGithub) meta = 'GPT-6 Astra · Communicated and edited by Boming Jia';
   else if(p.arxiv_id === '2112.08649') meta = 'Boming Jia · <span class="journal">Journal of Lie Theory</span> 35 (2025), no. 1, 83–100';
@@ -122,7 +123,7 @@ if(process.argv.includes('--standalone')) {
     .replace('<link rel="stylesheet" href="assets/style.css">', `<style>${fs.readFileSync(path.join(root,'assets/style.css'),'utf8')}</style>`)
     .replace('src="assets/boming-jia.jpg"', `src="data:image/jpeg;base64,${fs.readFileSync(path.join(root,'assets/boming-jia.jpg')).toString('base64')}"`);
   const embeddedPdfs = {};
-  standalone = standalone.replace(/href="((?:assets|papers)\/[^"\s]+\.pdf)"/g, (_, pdfPath) => {
+  standalone = standalone.replace(/href="((?:assets|papers)\/[^"\s?]+\.pdf)(?:\?[^"\s]*)?"/g, (_, pdfPath) => {
     const file = fs.readFileSync(path.join(root, pdfPath));
     if (file.subarray(0, 5).toString() !== '%PDF-') throw new Error(`Invalid PDF: ${pdfPath}`);
     embeddedPdfs[pdfPath] = file.toString('base64');
